@@ -1,0 +1,3 @@
+sum of three number: 132
+max of three number: 87
+min of three number: 0
